@@ -26,7 +26,7 @@ sort($arrayYear);
         }; ?>
         </select>
     </div>
-    <input class="btn btn-warning" type="submit" value="Rehcercher">
+    <input class="btn btn-warning" type="submit" value="Rechercher">
     </form>
 
 <?php
