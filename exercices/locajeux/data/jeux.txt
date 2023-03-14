@@ -1,0 +1,8 @@
+1,SubTerra,Coopératif,Expert,./img/sub_terra.png,https://gusandco.net/wp-content/uploads/2019/04/French-Rules.pdf
+2,7 Wonders,Compétitif,Expert,./img/7_wonders.jpg,https://cdn.1j1ju.com/medias/ce/c4/60-7-wonders-regle.pdf
+3,Esquisse,Ambiance,Famillial,./img/Esquisse.jpg,https://cdn.1j1ju.com/medias/25/ba/36-esquisse-regle.pdf
+4,Sound Box,Ambiance,Famillial,./img/sound_box.jpg,https://cdn.1j1ju.com/medias/7e/16/ca-sound-box-regle.pdf
+5,Aeon's End,Coopératif,Expert,./img/aeon_s_end.jpg,https://cdn.1j1ju.com/medias/d0/43/9e-aeons-end-regle.pdf
+6,Andor,Coopératif,Expert,./img/andor.jpg,https://cdn.1j1ju.com/medias/79/54/33-andor-regle.pdf
+7,Call to adventure,Compétitif,initiés,./img/call_to_adventure.jpeg,https://cdn.1j1ju.com/medias/70/31/f5-call-to-adventure-regle.pdf
+8,Andor héros Sombres,coopératif,extension Andor,./img/andor_heros_sombres.jpg,https://cdn.1j1ju.com/medias/a9/10/2c-andor-heros-sombres-regle.pdf
